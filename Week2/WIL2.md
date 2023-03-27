@@ -26,7 +26,10 @@
 ![image2](https://blog.kakaocdn.net/dn/dejHNX/btrIcHK29NB/T7NKy6SOdPVdMQ26kwKKdK/img.png)
 - **working directory** : 코드를 작업하는 공간.
 - **staging area** : 다양한 변화를 논리적으로 엮어 이름 지어주기 위해 변화들을 쌓아놓는 공간. (중간 저장소)
-- **local repository** : git에서 관리하는 저장소. 커밋을 마친 코드를 저장. (메인 저장소)
+- **local repository** : git에서 관리하는 저장소. 커밋을 마친 코드를 저장. (메인 저장소)   
+ex ) 치킨의 예시   
+닭 손질, 염지, 튀김까지 staging area에 add -> "치킨 만들기" 라는 이름으로 local repository에 add
+소스 연구, 소스 테스트, 소스 선정까지 staging area에 add -> "소스 만들기" 라는 이름으로 local repository에 add
 <br/>  
 <br/>
 - **git add** : working directory 상의 변경 내용을 staging 영역에 추가하기 위해 사용하는 명령어.
