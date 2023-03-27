@@ -28,7 +28,7 @@
 - **staging area** : 다양한 변화를 논리적으로 엮어 이름 지어주기 위해 변화들을 쌓아놓는 공간. (중간 저장소)
 - **local repository** : git에서 관리하는 저장소. 커밋을 마친 코드를 저장. (메인 저장소)   
 ex ) 치킨의 예시   
-닭 손질, 염지, 튀김까지 staging area에 add -> "치킨 만들기" 라는 이름으로 local repository에 add
+닭 손질, 염지, 튀김까지 staging area에 add -> "치킨 만들기" 라는 이름으로 local repository에 add   
 소스 연구, 소스 테스트, 소스 선정까지 staging area에 add -> "소스 만들기" 라는 이름으로 local repository에 add
 <br/>  
 <br/>
