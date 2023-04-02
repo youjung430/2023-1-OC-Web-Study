@@ -95,6 +95,9 @@ footer
 
 `Related to`: 해당 커밋에 관련된 이슈 번호 (아직 해결 x)
 
+## Fork
+다른 사람의 github repository에서 내가 어떤 부분을 수정하거나 추가 기능을 넣고 싶을 때 해당 repository를 내 github repository로 그대로 복제하는 기능이다. fork한 저장소는 원본 저장소와 연결되어 있어서 original repository에 변화가 생기면 이는 그대로 forked된 repository로 반영된다.    
+original repository에 변경 사항을 적용하고 싶으면 해당 저장소에 pull request를 하고, 관리자로부터의 승인을 받으면 내가 만든 코드가 commit, merge된다. pull request 하기 전까지는 내 github repository에만 변화가 적용된다.
 ## 느낀점
 
 단순히 프로그래밍 언어 문법, 알고리즘을 배우는 것이 아닌 git을 사용해 다른사람과 협업하는 법이나 git에 대한 정확한 개념 등 개발자로서의 기본을 배울 수 있어서 뜻깊다. 3-ways-merge와 2-ways-merge 의 차이점에 대해 더 공부해보고 싶다.
